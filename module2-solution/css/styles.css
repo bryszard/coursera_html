@@ -7,11 +7,6 @@ h1 {
   font-size: 175%;
 }
 .container {
-  margin: 0 auto;
-  align-self: center;
-  width: 100%;
-}
-.container-lvl-2 {
   position: relative;
   margin: 1%;
   background-color: #CDFF80;  
