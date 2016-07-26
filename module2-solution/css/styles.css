@@ -18,7 +18,6 @@ h1 {
   top: 0;
   right: 0;
   width: 40%;
-  background-color: #F7FF80;
   border-bottom: 2px solid black;
   border-left: 2px solid black;
   padding: 8px;
@@ -27,6 +26,16 @@ h1 {
 }
 .content {
   padding: 45px 5px 2px 5px;
+}
+#chicken {  
+  background-color: #F7FF80;
+}
+#beef {
+  background-color: #AE5D5D;
+  color: white;
+}
+#sushi {
+  background-color: #64B56C;
 }
 @media (min-width: 992px) {
   .col-lg-4 {
